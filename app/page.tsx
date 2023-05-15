@@ -1,7 +1,5 @@
-import React from 'react';
-
 const Page = () => {
-	return <div>Mi Page es mi página PRINCIPAL</div>;
+	return <>Mi Page next.js</>;
 };
 
 export default Page;
